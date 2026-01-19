@@ -51,7 +51,7 @@ export default function Sidebar({ currentPage, onNavigate, isCollapsed, onToggle
               </div>
               {!isCollapsed && (
                 <div>
-                  <h1 className="text-xl font-bold text-gray-900 dark:text-white">EcoLearn AI</h1>
+                  <h1 className="text-xl font-bold text-gray-900 dark:text-white">EcoAI</h1>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Save the Planet</p>
                 </div>
               )}

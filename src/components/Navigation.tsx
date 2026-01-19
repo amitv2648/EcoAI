@@ -28,7 +28,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Leaf className="w-8 h-8 text-green-100" />
-            <span className="text-white font-bold text-xl">EcoLearn AI</span>
+            <span className="text-white font-bold text-xl">EcoAI</span>
           </div>
 
           <div className="flex items-center space-x-2">
